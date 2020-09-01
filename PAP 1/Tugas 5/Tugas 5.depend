@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1551502953 source:d:\kuliah\alpro\tugas 5\pustaka.c
+
+1551518361 source:d:\kuliah\alpro\tugas 5\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"pustaka.h"
+
+1551518361 d:\kuliah\alpro\tugas 5\pustaka.h
+
+1551502953 d:\kuliah\alpro\tugas 5\pustaka.c
+

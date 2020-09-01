@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1551685364 source:d:\kuliah\alpro\tugas 1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1551685482 source:d:\kuliah\alpro\pap 1\tugas 1\main.c
+	<stdio.h>
+	<stdlib.h>
+
