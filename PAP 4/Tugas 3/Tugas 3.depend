@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1553683164 source:d:\kuliah\alpro\pap 4\tugas 3\main.c
+	"kepala.h"
+
+1553683164 d:\kuliah\alpro\pap 4\tugas 3\kepala.h
+	<stdio.h>
+	<stdlib.h>
+
